@@ -13,4 +13,4 @@ This project analyzes a Spotify dataset containing over 20,000 records to uncove
 ## How to View the Dashboard
 1. Download the `.pbix` file.
 2. Open it in Power BI Desktop to interact with the slicers and visuals.
-![Project Dashboard](/dashboard.png)
+![Project Dashboard](./Dashboard.png)
